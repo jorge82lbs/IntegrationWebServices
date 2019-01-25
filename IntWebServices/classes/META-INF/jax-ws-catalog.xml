@@ -1,0 +1,4 @@
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <system systemId="http://tvmiddev1.televisa.net:10106/SecmanWebServices/SecmanDasUsuariosGrupoPort?wsdl#%7Bhttp%3A%2F%2FwebServices.view.secman.televisa.com.mx%2F%7DSecmanDasUsuariosGrupoService"
+          uri="../com/televisa/comer/integration/secman/grupos/SecmanDasUsuariosGrupoService.wsdl"/>
+</catalog>
